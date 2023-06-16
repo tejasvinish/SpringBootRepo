@@ -1,0 +1,5 @@
+com\javatpoint\springbootcrudoperation\service\BooksService.class
+com\javatpoint\springbootcrudoperation\SpringBootCrudOperationApplication.class
+com\javatpoint\springbootcrudoperation\model\Books.class
+com\javatpoint\springbootcrudoperation\repository\BooksRepository.class
+com\javatpoint\springbootcrudoperation\controller\BooksController.class
